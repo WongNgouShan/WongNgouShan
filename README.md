@@ -1,4 +1,4 @@
-### Hi There (Who even read this? seriuosly) 👋
+## Hi There (Who even read this? seriously) 👋
 
 - 🔭 I’m currently working on **this readme file**
 - 🌱 I’m currently learning in **universuty** (such spelling)
