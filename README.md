@@ -9,10 +9,13 @@ I am currently working on:
 - Improving my website. Check out [My-Personal-Website](https://github.com/WongNgouShan/My-Personal-Website)
 - Another group project on getting use of some web API.
 
+Other coding related work I want to do in the future:
+- Making a game
+
 My other works:
 - 📽[Youtube](https://www.youtube.com/channel/UCXXLVTuer2gPcbgVUtB4RWA)(Cantonese only)
 - ✒️[Instagram](https://www.instagram.com/worldsixthocean/)
-- 
 
+Others:
 - 📫 How to reach me: **twitter: oceanwong524**
 - ⚡ Fun fact: **I am alive (at least on April 21, 2022)**
